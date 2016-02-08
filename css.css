@@ -1,8 +1,8 @@
 .row{
-	position: relative;
+	
 }
 .col-md-12{
-	position: relative;
+
 }
 .hvr-grow {
     display: inline-block;
@@ -69,6 +69,7 @@ h1{
 
 p{
 	text-align: center;
+	position: relative;
 	color: #ffffff;
 	margin:center;
 	font-family: sans-serif;
@@ -79,6 +80,7 @@ p{
 
 p{
 	text-align: center;
+	position: relative;
 	color: #ffffff;
 	font-size: 25px;
 	margin:center;
@@ -89,6 +91,7 @@ p{
 h3{
 	font-family: Fredoka one;
 	text-align: center;
+	position: inherit;
 	color:#ffffff;
 	font-weight: 100;
 }
